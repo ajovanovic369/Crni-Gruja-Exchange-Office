@@ -1,0 +1,2 @@
+Transakcija uspesna!
+Isplatiti sledeci iznos: 1.8872916482935003 CHF za sledecu sumu: 214 DIN

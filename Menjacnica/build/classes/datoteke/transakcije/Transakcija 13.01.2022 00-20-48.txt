@@ -1,0 +1,2 @@
+Transakcija uspesna!
+Isplatiti sledeci iznos: 216.85866816521497 USD za sledecu sumu: 23154 DIN

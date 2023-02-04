@@ -1,0 +1,2 @@
+Transakcija uspesna!
+Isplatiti sledeci iznos: 114983.92 DIN za sledecu sumu: 1003 EUR

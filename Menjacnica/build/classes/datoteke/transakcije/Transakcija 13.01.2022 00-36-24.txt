@@ -1,0 +1,2 @@
+Transakcija uspesna!
+Isplatiti sledeci iznos: 12503.75 DIN za sledecu sumu: 125 USD

@@ -1,0 +1,2 @@
+Transakcija uspesna!
+Isplatiti sledeci iznos: 0.8336203926972098 GBP za sledecu sumu: 121 DIN
