@@ -18,7 +18,7 @@ public class Repozitorijum {
     /**
      * OAplikaciji
      */
-    public static final String OAPLIKACIJI_TEKST = "\nCS101 Projekat\nMenjacnica - Crni Gruja\nAleksandar Jovanovic 5291\nNapravljeno - Januar 2022\n";
+    public static final String OAPLIKACIJI_TEKST = "\nCS101 Projekat\nMenjacnica - Crni Gruja\nAleksandar Jovanovic\nNapravljeno - Januar 2022\n";
     /**
      * Prijavljivanje
      */
